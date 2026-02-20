@@ -13,9 +13,6 @@ Each page focuses on a different business area and provides interactive insights
 ## 1. Försäljningsanalys
 <img width="1287" height="802" alt="Försäjlningsanalys" src="https://github.com/user-attachments/assets/14df2611-31b4-4e22-9fb1-30d933963963" />
 
-### 🎥 Försäljningsanalys – Video Demo 
-[Click here to watch the video](Försäljningsanalys.mp4)
-
 This page provides a complete overview of the company’s sales performance, including:
 
 - Total sales, costs, and margin
