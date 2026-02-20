@@ -60,4 +60,3 @@ This project was created to practice:
 - KPI design
 - Interactive dashboards
 
-Professional documentation for GitHub
